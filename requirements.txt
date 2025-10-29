@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+scikit-learn>=1.5.1  # Match the version used to train models
+tensorflow
+h5py # required for loading .h5 Keras models
+joblib # often used for pickle files, good to include
+
+xgboost
+lightgbm
+catboost
